@@ -7,4 +7,4 @@ Apropia los conceptos fundamentales de asincronismo con JavaScript, aplica sus d
 - Aplica funciones asíncronas a tus proyectos para interactuar con una API.
 - Crea una landing page y realiza el despliegue en GitHub Pages.
 
-<a href="https://platzi.com/cursos/asincronismo-js/"> Curso de ASincronismo con JS<a\>
+<a href="https://platzi.com/cursos/asincronismo-js/"> Curso de ASincronismo con JS</a>
